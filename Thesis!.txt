@@ -1,1 +1,3 @@
 ADAPT + QITE + Transcorrelated!
+TC-AVQITE
+Transcorrelated Adaptive Derivative Assembled Pseudo-Trotter Variational Quantum Imaginary Time Evolution
