@@ -1,3 +1,5 @@
 ADAPT + QITE + Transcorrelated!
 TC-AVQITE
 Transcorrelated Adaptive Derivative Assembled Pseudo-Trotter Variational Quantum Imaginary Time Evolution
+
+https://www.chalmers.se/utbildning/dina-studier/kandidat-och-examensarbete/examensarbete/utformning-av-examensarbete/
